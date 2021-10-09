@@ -1,4 +1,5 @@
-# pokedex
+# Pokédex
+### Projeto criado para estudo e prática no consumo de API's
 
 ## Project setup
 ```
